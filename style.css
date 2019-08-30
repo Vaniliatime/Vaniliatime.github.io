@@ -1,7 +1,17 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
 
-html, body 
+ body 
 {
+  height: 100%;
+  width: 100%;
+  font-family: 'Poppins', sans-serif;
+  columns: #222222;
+}
+
+html 
+{
+  scroll-behavior: smooth;
+  
   height: 100%;
   width: 100%;
   font-family: 'Poppins', sans-serif;
