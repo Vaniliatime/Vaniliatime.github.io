@@ -13,3 +13,4 @@ My Portfolio </br>
 <b> <center>  Computers </b> </center> </br>
 ![](Pictures/Ace3.1.png)
 
+Autor: Krzysztof Kaszuba
